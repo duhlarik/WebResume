@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/davidamandoestrada/pen/QjEeyy.
-
- This is David Estrada's resume.
+ This is DeeAnn Uhlarik's resume.
